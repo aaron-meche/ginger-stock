@@ -1,0 +1,15 @@
+{
+  "name": "ginger-stock",
+  "version": "0.0.1",
+  "description": "AI stock picker application powered by orchestrated AI API calls powered by rueter-ai",
+  "license": "MIT",
+  "author": "aaron-meche",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "rueter-ai": "^0.3.1"
+  }
+}
